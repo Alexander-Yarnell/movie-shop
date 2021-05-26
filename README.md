@@ -2,7 +2,7 @@
 A simple test website working with single page routing
 
 
-##How to run.
+#How to run.
 
 Fork the project.
 
@@ -10,7 +10,7 @@ cd into the project
 
 run npx http-server
 
-##Roadmap
+#Roadmap
 
 Add hover effects to products
 Add more products
